@@ -15,7 +15,7 @@ const Navbar = () => {
               <Code className="h-8 w-8 text-neon-cyan" />
               <div className="absolute inset-0 h-8 w-8 text-neon-cyan animate-pulse-glow"></div>
             </div>
-            <span className="text-xl font-bold text-gradient">CodeGlow Hub</span>
+            <span className="text-xl font-bold text-gradient">TryCodeNow</span>
           </div>
 
           {/* Desktop Navigation */}
