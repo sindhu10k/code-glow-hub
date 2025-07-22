@@ -6,8 +6,8 @@ const LanguageGrid = () => {
     { name: "JavaScript", icon: Globe, description: "Web development", color: "text-neon-cyan", bgColor: "bg-neon-cyan/10" },
     { name: "Java", icon: Cpu, description: "Enterprise apps", color: "text-neon-orange", bgColor: "bg-neon-orange/10" },
     { name: "C++", icon: Terminal, description: "System programming", color: "text-neon-purple", bgColor: "bg-neon-purple/10" },
-    { name: "React", icon: Globe, description: "Frontend framework", color: "text-neon-cyan", bgColor: "bg-neon-cyan/10" },
-    { name: "Node.js", icon: Database, description: "Backend runtime", color: "text-neon-green", bgColor: "bg-neon-green/10" },
+    { name: "Clojure", icon: Globe, description: "Frontend framework", color: "text-neon-cyan", bgColor: "bg-neon-cyan/10" },
+    { name: "Basic", icon: Database, description: "Backend runtime", color: "text-neon-green", bgColor: "bg-neon-green/10" },
     { name: "TypeScript", icon: Code, description: "Typed JavaScript", color: "text-neon-cyan", bgColor: "bg-neon-cyan/10" },
     { name: "Go", icon: Cpu, description: "Cloud & microservices", color: "text-neon-green", bgColor: "bg-neon-green/10" },
     { name: "Rust", icon: Terminal, description: "Memory safety", color: "text-neon-orange", bgColor: "bg-neon-orange/10" },
@@ -19,8 +19,8 @@ const LanguageGrid = () => {
     { name: "Scala", icon: Cpu, description: "Big data processing", color: "text-neon-cyan", bgColor: "bg-neon-cyan/10" },
     { name: "R", icon: Database, description: "Statistical computing", color: "text-neon-green", bgColor: "bg-neon-green/10" },
     { name: "SQL", icon: Database, description: "Database queries", color: "text-neon-cyan", bgColor: "bg-neon-cyan/10" },
-    { name: "HTML/CSS", icon: Globe, description: "Web markup & styling", color: "text-neon-orange", bgColor: "bg-neon-orange/10" },
-    { name: "Dart", icon: Smartphone, description: "Flutter development", color: "text-neon-cyan", bgColor: "bg-neon-cyan/10" },
+    { name: "Assembly", icon: Globe, description: "Web markup & styling", color: "text-neon-orange", bgColor: "bg-neon-orange/10" },
+    { name: "Lua", icon: Smartphone, description: "Flutter development", color: "text-neon-cyan", bgColor: "bg-neon-cyan/10" },
     { name: "Perl", icon: Terminal, description: "Text processing", color: "text-neon-purple", bgColor: "bg-neon-purple/10" },
   ];
 
