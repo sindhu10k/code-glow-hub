@@ -6,56 +6,62 @@ const Courses = () => {
     {
       title: "Python for Beginners",
       description: "Learn Python from scratch with hands-on examples and real projects.",
-      duration: "12 hours",
-      students: "15.2k",
+      duration: "11 hours",
+      students: "11M",
       level: "Beginner",
       color: "text-neon-green",
-      borderColor: "border-neon-green/30"
+      borderColor: "border-neon-green/30",
+      youtubeLink: "https://youtu.be/UrsmFxEIp5k?si=Ca6RmRU1HV4Tn5u2"
     },
     {
       title: "JavaScript Fundamentals",
       description: "Master modern JavaScript and build interactive web applications.",
-      duration: "16 hours",
-      students: "23.1k",
+      duration: "12 hours",
+      students: "4.9M",
       level: "Beginner",
       color: "text-neon-cyan",
-      borderColor: "border-neon-cyan/30"
+      borderColor: "border-neon-cyan/30",
+      youtubeLink: "https://youtu.be/VlPiVmYuoqw?si=EzVQsI-Agrv5n81Y"
     },
     {
       title: "React Development",
       description: "Build modern web apps with React, hooks, and component patterns.",
       duration: "20 hours",
-      students: "18.7k",
+      students: "197k",
       level: "Intermediate",
       color: "text-neon-cyan",
-      borderColor: "border-neon-cyan/30"
+      borderColor: "border-neon-cyan/30",
+      youtubeLink: "https://youtu.be/LuNPCSNr-nE?si=yJG0H49KZ7_X7Oc2"
     },
     {
       title: "Data Structures & Algorithms",
       description: "Essential programming concepts for technical interviews and problem solving.",
-      duration: "25 hours",
+      duration: "100+ hours",
       students: "12.3k",
       level: "Intermediate",
       color: "text-neon-purple",
-      borderColor: "border-neon-purple/30"
+      borderColor: "border-neon-purple/30",
+      youtubeLink: "https://youtube.com/playlist?list=PLQEaRBV9gAFu4ovJ41PywklqI7IyXwr01&si=ZjDyDbx7oKJvAlU8"
     },
     {
       title: "Full Stack Development",
       description: "Complete web development course covering frontend, backend, and databases.",
-      duration: "40 hours",
-      students: "9.8k",
+      duration: "28 hours",
+      students: "3M",
       level: "Advanced",
       color: "text-neon-orange",
-      borderColor: "border-neon-orange/30"
+      borderColor: "border-neon-orange/30",
+      youtubeLink: "https://youtu.be/HVjjoMvutj4?si=Itfl3iPtcvN0-RE_"
     },
     {
       title: "Machine Learning Basics",
       description: "Introduction to ML concepts, algorithms, and practical implementations.",
-      duration: "30 hours",
-      students: "7.2k",
+      duration: "4 hours",
+      students: "8.9M",
       level: "Intermediate",
       color: "text-neon-green",
-      borderColor: "border-neon-green/30"
+      borderColor: "border-neon-green/30",
+      youtubeLink: "https://youtu.be/i_LwzRVP7bg?si=qWddFelIab5ouuCp"
     }
   ];
 
@@ -136,7 +142,7 @@ const Courses = () => {
         <div className="text-center mt-16">
           <div className="inline-flex flex-col items-center space-y-4 p-8 rounded-xl bg-gradient-accent/10 border border-accent/30">
             <h3 className="text-2xl font-bold text-gradient">
-              🎯 100% Free Forever
+              🎯 100% Free
             </h3>
             <p className="text-muted-foreground max-w-md">
               No hidden fees, no premium tiers. Quality education should be accessible to everyone.
