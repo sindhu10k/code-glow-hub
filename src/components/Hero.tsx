@@ -72,8 +72,7 @@ int main() {
                 <span className="text-gradient-secondary">limits</span>
               </h1>
               <p className="text-xl text-muted-foreground max-w-lg">
-                Experience the most powerful online code editor with support for 20+ programming languages. 
-                Learn with our free courses and build amazing projects.
+                Experience the most powerful online code editor with support for 20+ programming languages.
               </p>
             </div>
 
@@ -99,7 +98,7 @@ int main() {
               </div>
               <div className="flex items-center space-x-2">
                 <span className="w-2 h-2 bg-neon-purple rounded-full"></span>
-                <span>Free forever</span>
+                <span>Secured</span>
               </div>
             </div>
           </div>
