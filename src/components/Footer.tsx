@@ -8,7 +8,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
-              <Code className="h-6 w-6 text-neon-cyan" >
+              <Code className="h-6 w-6 text-neon-cyan" />
               <span className="text-lg font-bold text-gradient">TryCodeNow</span>
             </div>
             <p className="text-muted-foreground text-sm">
